@@ -1,0 +1,6 @@
+.header-department:hover .department-nav-menu {
+    display: block;
+}
+.department-nav-menu {
+    display: none;
+}
